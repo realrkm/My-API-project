@@ -1,1 +1,1 @@
-# FreeCodeCanp Postman API Test Automation
+# FreeCodeCamp Postman API Test Automation
